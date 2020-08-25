@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application/>
+        <filter/>
+        <name>My Orders</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_58872_needit.my_order_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-24 19:50:52</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3d99834e2f3610101b55578b2799b67f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Orders</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_module_3d99834e2f3610101b55578b2799b67f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-24 19:50:52</sys_updated_on>
+        <table>x_58872_needit_my_order</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>6c228102db905b00ff27d5b0cf9619e1</instance_id>
+        <instance_name>dev50309</instance_name>
+        <name>sys_ui_module_3d99834e2f3610101b55578b2799b67f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application/><filter/><name>My Orders</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_58872_needit.my_order_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-24 19:50:52</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>3d99834e2f3610101b55578b2799b67f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>My Orders</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_module_3d99834e2f3610101b55578b2799b67f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-24 19:50:52</sys_updated_on><table>x_58872_needit_my_order</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>-756767547</payload_hash>
+        <record_name>My Orders</record_name>
+        <reverted_from/>
+        <source>6465c6422f7210101b55578b2799b6ca</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-25 12:58:40</sys_created_on>
+        <sys_id>ddd4729e2f3250101b55578b2799b6e7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17425b2f87a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-25 12:58:40</sys_updated_on>
+        <type>Module</type>
+        <update_guid>bd99834eae3610106cdb88a8059bbc80</update_guid>
+        <update_guid_history>bd99834eae3610106cdb88a8059bbc80:1556432446,bd99834eae3610106cdb88a8059bbc80:1556432446</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-25 12:59:08</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>380971aa749742fa934e338ac3147bc4</sys_id>
+        <sys_metadata>3d99834e2f3610101b55578b2799b67f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Orders</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_module_3d99834e2f3610101b55578b2799b67f</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_3d99834e2f3610101b55578b2799b67f">ddd4729e2f3250101b55578b2799b6e7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-25 12:59:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
